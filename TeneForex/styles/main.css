@@ -1,0 +1,8 @@
+.nav{
+    display: flex;
+    background-color: rgb(12, 12, 1);
+    color: rgb(235, 238, 240);
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
