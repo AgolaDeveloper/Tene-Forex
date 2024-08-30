@@ -11,6 +11,6 @@
     font-size: large;
 }
 
-.tene{
-    margin: auto;
+.nav li{
+    flex: 1;
 }
