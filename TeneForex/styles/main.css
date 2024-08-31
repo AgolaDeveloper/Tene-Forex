@@ -4,6 +4,8 @@
     align-items: center;
     justify-content: start;
 
+    border-radius: 20px;
+
     background-color: rgb(12, 12, 1);
     color: rgb(235, 238, 240);
     font-weight: bold;
