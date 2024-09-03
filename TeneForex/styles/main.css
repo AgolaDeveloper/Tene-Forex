@@ -19,3 +19,9 @@
 .nav li{
     flex: 1;
 }
+
+ul a:hover{
+    color: white;
+    background-color: black;
+    font-weight: bold;
+}
