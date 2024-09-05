@@ -25,3 +25,8 @@ ul a:hover{
     background-color: black;
     font-weight: bold;
 }
+
+ul a.active{
+    color: black;
+    background-color: beige;
+}
