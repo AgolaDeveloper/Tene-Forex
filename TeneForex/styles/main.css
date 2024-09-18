@@ -1,33 +1,16 @@
-.container{
+ html{
+    height: 100%;
+ }
+
+ .container{
     display: flex;
-}
-.nav{
-    display: flex;
-    height: 50px;
+    flex-direction: column;
+
+    gap: 0;
+    margin: 0;
+    padding: 0;
+
+    justify-content: flex-start;
     align-items: center;
-    justify-content: flex-end;
-    gap: 20px;
     
-    border-radius: 20px;
-
-    background-color: rgb(12, 12, 1);
-    color: rgb(235, 238, 240);
-    font-weight: bold;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: large;
-}
-
-.nav li{
-    flex: 1;
-}
-
-ul a:hover{
-    color: white;
-    background-color: black;
-    font-weight: bold;
-}
-
-ul a.active{
-    color: black;
-    background-color: beige;
-}
+ }
