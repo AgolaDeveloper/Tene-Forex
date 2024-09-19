@@ -18,8 +18,7 @@
  }
 
  .block{
-    background-color: rgb(216, 198, 198);
-    border: 1px solid rgb(54, 51, 51);
+     border: 1px solid rgb(54, 51, 51);
  }
 
  .block#nav{
@@ -35,6 +34,8 @@
     justify-content: flex-start;
     align-items: center;
 
+    background-color: black;
+
  }
 
  .block#main{
@@ -49,13 +50,14 @@
 
     justify-content: center;
     align-items: center;
-
+   
+    background-color: rgb(224, 212, 212);
  }
 
  .block#footer {
    flex-grow: 1;
-  background-color: gainsboro;
-  border: 1px solid red;  
+   background-color: rgb(224, 212, 212);
+   border: 1px solid red;  
 
 
   
