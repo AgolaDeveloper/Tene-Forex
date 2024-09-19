@@ -58,17 +58,15 @@
   border: 1px solid red;  
 
 
-  color: red;
-  text-align: center;
-  font-family: Arial, Helvetica, sans-serif;
-
-  /*making footer a flex container as well*/
-
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
+  
+  
     
 }
 
+#cop{
+   color: red;
+   text-align: center;
+   font-family: Arial, Helvetica, sans-serif;
+ 
+}
  
