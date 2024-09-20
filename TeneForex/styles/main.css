@@ -39,9 +39,16 @@
  }
 
  #nav a{
-   text-decoration: none;
+   display: block;
+    text-decoration: none;
    color: white;
    font-size: bold;
+ }
+
+ /*Styling nav-bar links upon hover*/
+
+ #nav a:hover{
+    border-bottom: 2px solid white;
  }
 
  .block#main{
